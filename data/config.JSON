@@ -1,0 +1,13 @@
+{
+    "site_name": "ГПА-11",
+    "regions": [
+        {
+            "parameter": "pressure_inlet",
+            "label": "Давление на входе",
+            "x": 120,
+            "y": 85,
+            "w": 110,
+            "h": 32
+        }
+    ]
+}
